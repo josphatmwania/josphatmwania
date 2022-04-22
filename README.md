@@ -10,7 +10,7 @@ Hi, I'm Josphat Mwania!, a passionate Full Stack Web Developer and Android Engin
 - 📫 How to reach me: josphatmwania237@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j23747)](https://github.com/j23747/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j23747&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)

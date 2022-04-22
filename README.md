@@ -13,4 +13,4 @@ Hi, I'm Josphat Mwania!, a passionate Full Stack Web Developer and Android Engin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j23747&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j23747&show_icons=true&theme=radical)

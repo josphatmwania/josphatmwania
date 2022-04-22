@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-
-
 
 Hi, I'm Josphat Mwania!, a passionate Full Stack Web Developer and Android Engineer in the making.
 - 🔭 I’m currently working on invoice application
@@ -12,5 +9,4 @@ Hi, I'm Josphat Mwania!, a passionate Full Stack Web Developer and Android Engin
 - 💬 Ask me about ...
 - 📫 How to reach me: josphatmwania237@gmail.com
 
--->
 

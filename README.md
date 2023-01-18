@@ -12,4 +12,7 @@ Hi, I'm Josphat Mwania!, a passionate Full Stack Web Developer and Android Engin
 
 
 
-![Josphat's GitHub stats](https://github-readme-stats.vercel.app/api?username=josphatmwania&show_icons=true&theme=radical)
+![Josphat's GitHub stats]
+
+<!-- (https://github-readme-stats.vercel.app/api?username=josphatmwania&show_icons=true&theme=radical)
+ -->

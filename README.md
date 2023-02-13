@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 #### What I'm doing?
-- 🏢 Working at **[Greenstand](https://greenstand.org/)** as a **Android Developer**.
+- 🏢 Working at **[Greenstand](https://greenstand.org/)** as an **Android Developer**.
 - 👨‍💻 Writing `Kotlin` `SQL` `JAVA` `Springboot` `Jetpack Compose` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/josphat-mwania-306547a7/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/josphat-mwania-306547a7/)--> and the **Android254, Kotlin Kenya & ReactDevs Ke**.
 - 📚 Currently learning about **clean architecture**, **Jetpack compose**, **large scale system design**, and **DSA**.

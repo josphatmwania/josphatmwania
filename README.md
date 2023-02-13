@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 #### Who I am?
 - An Android Engineer based in **Nairobi, Kenya** 
 - Have 2 years of hands-on experience in **scalable products, product development & Contributing to Open source.**
-- Developed products for **retail, healthcare, financial service, ** and **logistics** business domains.
+- Developed products for **retail, healthcare, financial service,  and logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 

@@ -77,4 +77,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josphatmwania&theme=gotham)](https://github.com/josphatmwania/github-readme-activity-graph)
+
 -->

@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 ## Github contribution graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Josphatmwania&theme=gotham)](https://github.com/Josphatmwania/github-readme-activity-graph)
+[![Josphat Mwania's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Josphatmwania&theme=gotham)](https://github.com/Josphatmwania/github-readme-activity-graph)
 
 
 

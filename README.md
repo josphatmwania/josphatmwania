@@ -63,8 +63,6 @@ Here are some ideas to get you started:
 
 ## Github contribution graph
 
-[![JosphatMwania's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josphatmwania&theme=gotham)](https://github.com/Josphatmwania/github-readme-activity-graph)
-
 [![JosphatMwania's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josphatmwania&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/josphatmwania/github-readme-activity-graph)
 
 <!--

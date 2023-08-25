@@ -7,26 +7,26 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - An Android Engineer based in **Nairobi, Kenya** 
-- Have 2 years of hands-on experience in **scalable products, product development & Contributing to Open source.**
+- Have 2 years of hands-on experience in **scalable products, product development and contributing to Open source.**
 - Developed products for **retail, healthcare, financial service,  and logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 
 
 #### What I'm doing?
-- 🏢 Working at **[Greenstand](https://greenstand.org/)** as an **Android Developer**.
-- 👨‍💻 Writing `Kotlin` `SQL` `JAVA` `Springboot` `Jetpack Compose` `JavaScript`.
+- 🏢 Building solutions at **Vingo Africa** & **Clean-Genesis** as an **Android Developer**.
+- 👨‍💻 Writing `Kotlin` `SQL` `JAVA` `Jetpack Compose` `Springboot` `Flutter & KMM`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/josphat-mwania-306547a7/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/josphat-mwania-306547a7/)--> and the **Android254, Kotlin Kenya & ReactDevs Ke**.
 - 📚 Currently learning about **clean architecture**, **Jetpack compose**, **large scale system design**, and **DSA**.
 - 👯 Looking to collaborate on **Android Projects**.
 
 
-#### What I like to disscuss about? 
+#### What I like to discuss about? 
 - 💬 Ask me about `Atlassian Tools` `web APIs` `system design` `scalability` and `design patterns`.
 
-#### What my skill set looks like?
+#### What my skill set look like?
 - 🖥 **Android Development:** 
-  - **📜 Languages:** • `🧙🏻 KOtlin` • `👨‍🏭 Java` • `👨‍🔧 Jetpack Compose` • `🧚🏻‍♂️ XML` • `👨🏻‍🎨 Android`  `Room Database`
+  - **📜 Languages:** • `🧙🏻 Kotlin` • `👨‍🏭 Java` • `👨‍🔧 Jetpack Compose` • `🧚🏻‍♂️ XML` • `👨🏻‍🎨 Android`  `Room Database` `Futter` & `KMM`
 
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ Java Springboot`, `Python - NodeJS`

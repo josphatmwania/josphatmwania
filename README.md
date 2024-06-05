@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-#### Who I am?
+#### Who am I?
 - An Android Engineer based in **Nairobi, Kenya** 
 - Have 2 years of hands-on experience in **scalable products, product development and contributing to Open source.**
 - Developed products for **retail, healthcare, financial service,  and logistics** business domains.
